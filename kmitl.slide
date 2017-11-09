@@ -1,0 +1,80 @@
+Introduction to Git and Github flow
+10 Nov 2017
+Tags: go golang 
+
+Mahasak Pijittum
+BeArchitect
+mahasak@gmail.com
+http://mahasak.com/
+@mahasak
+
+* Who the f**k is this guy?
+
+.image ./images/mahasak.jpg 250 250
+
+- Senior Software Engineer @ Agoda
+- War Lord @ Warroom
+- Java Zealot, Pythonista, Gopher, Bearchitect
+
+.link http://mahasak.com http://mahasak.com
+
+* Git Architecture
+
+.image ./images/git-architecture.png 500 650
+
+* Git Branching
+
+.image ./images/git-branch.png 350 950
+
+* Git Commit
+
+.image ./images/git-commit.png 350 950
+
+* Git Pull Request
+
+.image ./images/git-pr.png 350 950
+
+* Git Code Review
+
+.image ./images/git-review.png 350 950
+
+* Git Deploy
+
+.image ./images/git-ci.png 350 950
+
+* Git Merge
+
+.image ./images/git-merge.png 350 950
+
+* Git Operations
+.link https://try.github.io Try GitHub
+.code -edit ./codes/git-commands.go
+
+* Git Operations 2
+
+.code -edit ./codes/git-commands2.go
+
+* Git Operations 3
+
+.code -edit ./codes/git-commands3.go
+
+* Git Fork & Upstream
+
+.image ./images/git-upstream.png 350 680
+
+* Git Operations with Upstream - Preparation
+
+.code -edit ./codes/git-upstream.go
+
+* Git Operations with Upstream
+
+.code -edit ./codes/git-upstream2.go
+
+
+* Further Read
+
+.link https://learngitbranching.js.org/ LearnGitBranching
+
+.link https://www.codecademy.com/learn/learn-git CodeAcademy
+
+.link https://gist.github.com/Chaser324/ce0505fbed06b947d962 Working with Upstream
